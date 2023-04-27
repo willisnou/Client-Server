@@ -1,2 +1,2 @@
-# feevale_projeto-integrador-2
-Client-Server Socket connection com Java
+# Client/Server Socket - Java
+Comunicação Client-Server em Java - Projeto Integrador da Universidade Feevale
